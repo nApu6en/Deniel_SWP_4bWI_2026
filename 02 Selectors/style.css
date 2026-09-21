@@ -1,0 +1,27 @@
+ 
+        /*ELEMENT Selektor */
+        div{
+            background-color: aqua;
+        }
+
+        /*id Selektor*/
+        #header{
+            font-size: 3rem;
+        }
+
+        #text p{
+            background-color: blanchedalmond;
+        }
+
+        #subtitle{
+            font-size: 2rem;
+        }
+
+
+        /* Klassenselector */
+        .brown-color{
+            color: brown;
+        }
+
+
+     
