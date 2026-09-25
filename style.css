@@ -1,0 +1,12 @@
+
+        div{
+            border-style: solid;
+            height: 100px;
+        }
+
+        .div1{
+            background-color: aliceblue;
+            position: relative;
+            top: 54px;
+            left: 23px;
+        }
